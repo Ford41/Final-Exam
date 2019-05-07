@@ -1,0 +1,5 @@
+horse,9
+cow,7
+dog,5
+mouse,4
+cat,3
